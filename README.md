@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning code
 - 🌱 I’m currently learning Python a little bit
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me on whatsapp
+- 📫 How to reach me on whatsapp +8801898326253
 
 
 <!---
